@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Peam 👋
+Pharmacy student learning computational biology & machine learning.
 
-<!--
-**p31nn-ph/p31nn-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Current Focus
+- Documenting my learning journey publicly
 
-Here are some ideas to get you started:
+## 📚 Background
+- **Pharmacy student** at [Khonkaen University]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I'm Working On
+This GitHub is my learning lab. Expect:
+- Small projects as I learn new concepts
+- Documentation that reflects what I actually understand
+
+📧 [phurinut.khampasri@gmail.com]
